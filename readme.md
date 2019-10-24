@@ -21,3 +21,4 @@ Ceci est un bloc de code
 
 x
 ur finir, voici [un lien](https://guides.github.com/features/mastering-markdown/) pour devenir un as du Markdown
+c'est tout pour les bases de markdown.

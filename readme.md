@@ -6,9 +6,9 @@ je peux mettre des textes**en gras**,
 ou en *italique* et pourquoi pas ***les deux***? c'est comme je veux
 oui! c'est selon mon humeur, en *italique* ou en **gras** voire les ***deux***.
 
--ceci
+- ceci
 - est une liste
--non ordonnée
+- non ordonnée
 
 1. et cette
 2. dernière
